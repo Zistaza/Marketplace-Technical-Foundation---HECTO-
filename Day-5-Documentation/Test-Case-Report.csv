@@ -1,0 +1,19 @@
+Test Number,Feature Tested,Expected Outcome,Actual Outcome,Status,Priority,Notes
+T001,Dynamic Product Display,Products retrieved and displayed in real-time from Sanity CMS,Products displayed accurately in real-time,Passed,High,No issues identified.
+T002,Product Filtering and Search,Efficient filtering by category and immediate search results,Filtering and search provided correct results as expected,Passed,High,Tested for multiple categories and keywords.
+T003,Cart Management,"Smooth adding, removing, and updating of items in the cart",Cart updated accurately with all actions,Passed,High,No discrepancies in cart operations.
+T004,Interactive Product Detail Page,Rating submissions and related product recommendations work as expected,Ratings submitted successfully and recommendations displayed accurately,Passed,Medium,Feature performed as designed.
+T005,Checkout Process,Billing details captured and payment methods integrated correctly,Checkout completed successfully,Passed,High,No issues during payment integration.
+T006,Error Handling (API Failure),Clear error message displayed when Qroq Query is disconnected,Error message displayed successfully,Passed,Low,Error message appeared as expected without issues.
+T007,Unstable API Responses,Fallback alert displayed for failed API requests,Retry mechanism worked and fallback alerts displayed,Passed,Medium,Handled gracefully without crashes.
+T008,Inaccurate Search Functionality,Search supports partial keyword matching,Partial keyword matching provided accurate results,Passed,High,Query logic updated and tested thoroughly.
+T009,Page Performance,Page loads efficiently with compressed images and lazy loading,Page performance improved with faster load times,Passed,High,Lighthouse scores improved for mobile and desktop.
+T010,Cross-Browser Testing,"Core functionalities work across Chrome, Firefox, and Edge",Website displayed and functioned consistently across browsers,Passed,Medium,Compatible with all tested browsers.
+T011,Mobile Responsiveness,Website layout and functionality adapt properly to mobile devices,Responsive design worked as intended,Passed,High,Tested on various devices and screen sizes.
+T012,Loader Functionality,Loader appears during asynchronous operations,Loader displayed smoothly and effectively,Passed,Medium,Enhanced user experience during processing.
+T013,Search Functionality,Accurate search results for full and partial keywords,Search results matched expectations,Passed,High,Performed well with varied input.
+T014,Product Filters,Filters return correct results based on price range and category,Filter results were accurate,Passed,Medium,No discrepancies identified.
+T015,Account Management,"Login, sign-up, and password reset functionalities work correctly",All account management actions succeeded,Passed,High,No errors encountered.
+T016,UAT: Usability Issues,Minor adjustments for smoother flow,Adjustments implemented successfully,Passed,Low,Improved user flow and ease of use.
+T017,Performance Testing (Mobile),Optimized speed and responsiveness on mobile,Lighthouse metrics met performance goals,Passed,High,No significant delays observed.
+T018,Performance Testing (Desktop),Optimized speed and responsiveness on desktop,Lighthouse metrics met performance goals,Passed,High,Performed well on high-speed connections.
